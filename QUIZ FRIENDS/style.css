@@ -1,0 +1,89 @@
+body {
+    font-family: 'optima',monospace;
+    min-height: 700px;
+    background-image:url("https://i.pinimg.com/564x/a1/1a/04/a11a04c1efc2187ec7640b3993e7679a.jpg");
+     min-height: 400px;
+     background-repeat: repeat;
+     text-align:center;
+  }
+  
+    .container1{
+    width: 700px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto; 
+    background-color:#f1f2f6;
+    opacity:95%;
+    position: center;
+    border: 2px double #ecf0f1;
+    border-radius: 20px
+  }
+  .container {
+    width: 400px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto; 
+    background-color:#f1f2f6;
+    opacity:95%;
+    position: center;
+    border: 2px double #ecf0f1;
+    border-radius: 20px 
+  }
+  .page-title {
+    font-size: 42px;
+    color: #1e272e;
+    margin: 8px 0 10px;
+  }
+  .page-subtitle {
+    font-size: 18px;
+    font: 'optima',monospace;
+    color: #1e272e;
+    margin-top: 10px;
+  }
+  .text{
+    font-size: 20px;
+    font: 'optima',monospace;
+    color:#1e272e;
+    margin-top: 10px;
+  }
+  img {
+    width: 310px;
+    height: 300px;
+    margin: 20px;
+    border: 5px double #bdc3c7;
+    border-radius: 30px 
+  }
+  
+  .name {
+    height: 25px;
+    width: 200px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font: 'optima',monospace;
+    text-align:center;
+  }
+  
+  .check {
+    height: 28px;
+    width: 70px;
+    color:#808e9b;
+    outline: none;
+    border: double;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .name:hover {
+      transform: scale(1.05);
+  }
+  
+  .check:hover {
+      transform: scale(1.05);
+  }
+   .alura-logo {
+      width: 40px;
+      position: bottom;
+    }
+    
